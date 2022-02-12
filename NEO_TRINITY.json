@@ -1,0 +1,58 @@
+{
+    "Profile": [
+        {
+            "First Name": "Trinity  ",
+            "Last Name":"Neo",
+            "Age": "24",
+            "Birthdate": "October 8,1998",
+            "Sex": "Female",
+            "E-mail": "trinityxxneo@trix.com",
+            "Contact Number": "0947-075-208"
+        }],
+    "Experience": [
+        {
+            "Current Job": [
+                {
+                    "Occupation": "Software Developer",
+                    "Company": "IBM Philippines (2020-present)",
+                    "Job Description A": "Led team of 5 junior software engineers through software development cycle for 9 client projects.", 
+                    "Job Description B": "Ran monthly unit tests to determine software effectiveness and mend glitches in the system.", 
+                    "Job Description C": "Upgraded client data storage to cloud-based system."
+                }],
+            "First Job": [
+                {
+                    "Occupation": "Junior Software Engineer", 
+                    "Company": "Amazon (2018-2020)", 
+                    "Job Description A": "Fueled additional revenue stream through responsive customer support, generating new license.", 
+                    "Job Description B": "Provided design and support for enhancement of Web application accessed by million users worldwide.", 
+                    "Job Description C": "Participated in sales presentations, ability to translate user needs by software solutions."
+                }]
+        }],
+    "Skills": [
+        {
+            "First": "Well-versed in software tools such as Java, HTML, CSS, SQL Server,Python, No SQL", 
+            "Second": "Solid knowledge of cybersecurity principles", 
+            "Third": "Agile frameworks", 
+            "Fourth": "Ability to determine modifications for optimal user-function",
+            "Fifth": "Strong communication skill and teamwork"
+        }],
+    "Hobbies": [
+        {
+            "Second": "Playing drums", 
+            "Third": "Exercising", 
+            "Fourth": "Watching TV series, anime, and movies"
+        }],
+    "Education": [
+        {
+            "Third Diploma": [
+                {
+                    "Course": "PhD in Data Science", 
+                    "School": "University of the Philippines(2019- )"
+                }],
+            "First Diploma": [
+                {
+                    "Course": "BS Computer Science", 
+                    "School": "Massachusetts Institute of Technology (2010-2015)"
+                }]
+        }]
+}
